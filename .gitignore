@@ -1,0 +1,29 @@
+# SPK Penjurusan Siswa
+
+Aplikasi **Sistem Pendukung Keputusan (SPK)** untuk menentukan jurusan siswa (IPA/IPS) berbasis **Streamlit** dan algoritma **KNN** & **Decision Tree**.
+
+## ✨ Fitur Utama
+- Input nilai mata pelajaran dan minat-bakat siswa
+- Prediksi jurusan otomatis (IPA/IPS)
+- Tes minat dan bakat interaktif
+- Statistik nilai, korelasi antar mata pelajaran
+- Ranking siswa berdasarkan nilai akhir
+- Visualisasi pohon keputusan
+- Import & Export data ke Excel
+- Panel admin dengan log aktivitas
+- Fitur konsultasi cita-cita
+
+## 📦 Teknologi yang Digunakan
+- Python 3
+- Streamlit
+- Pandas
+- Scikit-learn
+- Matplotlib & Seaborn
+- Pillow
+- Pydotplus
+
+## 🛠️ Instalasi & Menjalankan Aplikasi
+1. **Clone repository**
+   ```bash
+   git clone https://github.com/sianturiros0932-design/skripsi-spk.git
+   cd skripsi-spk
